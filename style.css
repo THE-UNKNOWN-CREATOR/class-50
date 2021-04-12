@@ -1,0 +1,61 @@
+h1{
+    color: coral;
+}
+
+p{
+    text-align: center;
+}
+
+body{
+    background-color: cyan;
+}
+
+.Header{
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.pr_ab{
+    text-align: end;
+    color: darkorange;
+}
+
+.Game{
+    display: flex;
+    justify-content: space-between ;
+}
+
+.Superman{
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Balloon_Buster{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: yellowgreen;
+}
+
+.Monkey{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: yellow;
+}
+
+.Theif{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: grey;
+}
+
+.Media{
+    width: 150;
+    height: 150;
+}
